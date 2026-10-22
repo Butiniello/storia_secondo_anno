@@ -2,6 +2,10 @@
 
 [⬅ Torna all'indice](../README.md)
 
+## Pagine interattive
+
+- [Index](https://butiniello.github.io/storia_secondo_anno/00%20-%20L%27Italia%20delle%20Signorie/index.html)
+
 ## Immagini
 
 ### Signorie in Italia

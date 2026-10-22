@@ -2,6 +2,10 @@
 
 [⬅ Torna all'indice](../README.md)
 
+## Pagine interattive
+
+- [Index](https://butiniello.github.io/storia_secondo_anno/02%20-%20L%27et%C3%A0%20dei%20Conquistadores/index.html)
+
 ## Immagini
 
 ### Claude Bernou. Mappa America (1681)

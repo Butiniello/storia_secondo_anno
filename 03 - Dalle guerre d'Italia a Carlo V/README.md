@@ -2,6 +2,10 @@
 
 [⬅ Torna all'indice](../README.md)
 
+## Pagine interattive
+
+- [Index](https://butiniello.github.io/storia_secondo_anno/03%20-%20Dalle%20guerre%20d%27Italia%20a%20Carlo%20V/index.html)
+
 ## Immagini
 
 ### Castel del Monte
@@ -11,6 +15,10 @@
 ### Rocca Calascio (1470)
 
 [![Rocca Calascio (1470)](01%20-%20Rocca%20Calascio%20%281470%29.jpg)](01%20-%20Rocca%20Calascio%20%281470%29.jpg)
+
+### Discesa di Carlo VIII (1494)
+
+[![Discesa di Carlo VIII (1494)](01.5%20-%20Discesa%20di%20Carlo%20VIII%20%281494%29.png)](01.5%20-%20Discesa%20di%20Carlo%20VIII%20%281494%29.png)
 
 ### Battaglia di Fornovo 6.7.1495
 
