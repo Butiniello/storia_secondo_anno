@@ -2,10 +2,6 @@
 
 [⬅ Torna all'indice](../README.md)
 
-## Pagine interattive
-
-- [Index](https://butiniello.github.io/storia_secondo_anno/03%20-%20Dalle%20guerre%20d%27Italia%20a%20Carlo%20V/index.html)
-
 ## Immagini
 
 ### Castel del Monte

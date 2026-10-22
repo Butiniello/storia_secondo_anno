@@ -2,10 +2,6 @@
 
 [⬅ Torna all'indice](../README.md)
 
-## Pagine interattive
-
-- [Index](https://butiniello.github.io/storia_secondo_anno/01%20-%20L%27impero%20turco-ottomano%20e%20la%20scoperta%20di%20nuovi%20mondi/index.html)
-
 ## Immagini
 
 ### Espansione impero ottomano
