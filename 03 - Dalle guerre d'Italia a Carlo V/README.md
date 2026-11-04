@@ -28,6 +28,10 @@
 
 [![Genealogia Carlo V](04%20-%20Genealogia%20Carlo%20V.jpg)](04%20-%20Genealogia%20Carlo%20V.jpg)
 
+### 7 grandi elettori tedeschi
+
+[![7 grandi elettori tedeschi](05%20-%207%20grandi%20elettori%20tedeschi.jpg)](05%20-%207%20grandi%20elettori%20tedeschi.jpg)
+
 ### Carlo V
 
 [![Carlo V](05%20-%20Carlo%20V.jpg)](05%20-%20Carlo%20V.jpg)
@@ -52,9 +56,9 @@
 
 [![Carlo V incoronato da Papa Clemente VII a San Petronio (Bologna 1530)](09%20-%20Carlo%20V%20incoronato%20da%20Papa%20Clemente%20VII%20a%20San%20Petronio%20%28Bologna%201530%29.jpg)](09%20-%20Carlo%20V%20incoronato%20da%20Papa%20Clemente%20VII%20a%20San%20Petronio%20%28Bologna%201530%29.jpg)
 
-### La battaglia di Lepanto (1559)
+### La battaglia di Lepanto (1571)
 
-[![La battaglia di Lepanto (1559)](10%20-%20La%20battaglia%20di%20Lepanto%20%281559%29.jpg)](10%20-%20La%20battaglia%20di%20Lepanto%20%281559%29.jpg)
+[![La battaglia di Lepanto (1571)](10%20-%20La%20battaglia%20di%20Lepanto%20%281571%29.jpg)](10%20-%20La%20battaglia%20di%20Lepanto%20%281571%29.jpg)
 
 ### Alì Pascià, comandante in capo della flotta ottomana
 
