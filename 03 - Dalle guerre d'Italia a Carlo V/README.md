@@ -79,11 +79,3 @@
 ### Lutero alla Dieta di Worms (1521)
 
 [![Lutero alla Dieta di Worms (1521)](14%20-%20Lutero%20alla%20Dieta%20di%20Worms%20%281521%29.jpg)](14%20-%20Lutero%20alla%20Dieta%20di%20Worms%20%281521%29.jpg)
-
-### Carlo V. Cronologia
-
-[![Carlo V. Cronologia](15%20-%20Carlo%20V.%20Cronologia.png)](15%20-%20Carlo%20V.%20Cronologia.png)
-
-### I tre nemici di Carlo V
-
-[![I tre nemici di Carlo V](16%20-%20I%20tre%20nemici%20di%20Carlo%20V.png)](16%20-%20I%20tre%20nemici%20di%20Carlo%20V.png)
