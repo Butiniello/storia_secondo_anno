@@ -79,3 +79,7 @@
 ### Lutero alla Dieta di Worms (1521)
 
 [![Lutero alla Dieta di Worms (1521)](14%20-%20Lutero%20alla%20Dieta%20di%20Worms%20%281521%29.jpg)](14%20-%20Lutero%20alla%20Dieta%20di%20Worms%20%281521%29.jpg)
+
+### La lacerazione religiosa d'Europa
+
+[![La lacerazione religiosa d'Europa](15%20-%20La%20lacerazione%20religiosa%20d%27Europa.jpg)](15%20-%20La%20lacerazione%20religiosa%20d%27Europa.jpg)
