@@ -26,7 +26,7 @@
 
 ### Genealogia Carlo V
 
-[![Genealogia Carlo V](04%20-%20Genealogia%20Carlo%20V.jpg)](04%20-%20Genealogia%20Carlo%20V.jpg)
+[![Genealogia Carlo V](04%20-%20Genealogia%20Carlo%20V.png)](04%20-%20Genealogia%20Carlo%20V.png)
 
 ### 7 grandi elettori tedeschi
 
@@ -62,24 +62,4 @@
 
 ### Alì Pascià, comandante in capo della flotta ottomana
 
-[![Alì Pascià, comandante in capo della flotta ottomana](11%20-%20Al%C3%AC%20Pasci%C3%A0%2C%20comandante%20in%20capo%20della%20flotta%20ottomana.jpg)](11%20-%20Al%C3%AC%20Pasci%C3%A0%2C%20comandante%20in%20capo%20della%20flotta%20ottomana.jpg)
-
-### 95 tesi Lutero (Wittenberg 1517)
-
-[![95 tesi Lutero (Wittenberg 1517)](12%20-%2095%20tesi%20Lutero%20%28Wittenberg%201517%29.jpg)](12%20-%2095%20tesi%20Lutero%20%28Wittenberg%201517%29.jpg)
-
-### Il Diavolo vende le indulgenze
-
-[![Il Diavolo vende le indulgenze](13%20-%20Il%20Diavolo%20vende%20le%20indulgenze.png)](13%20-%20Il%20Diavolo%20vende%20le%20indulgenze.png)
-
-### Satira contro il papa
-
-[![Satira contro il papa](13%20-%20Satira%20contro%20il%20papa.jpg)](13%20-%20Satira%20contro%20il%20papa.jpg)
-
-### Lutero alla Dieta di Worms (1521)
-
-[![Lutero alla Dieta di Worms (1521)](14%20-%20Lutero%20alla%20Dieta%20di%20Worms%20%281521%29.jpg)](14%20-%20Lutero%20alla%20Dieta%20di%20Worms%20%281521%29.jpg)
-
-### La lacerazione religiosa d'Europa
-
-[![La lacerazione religiosa d'Europa](15%20-%20La%20lacerazione%20religiosa%20d%27Europa.jpg)](15%20-%20La%20lacerazione%20religiosa%20d%27Europa.jpg)
+[![Alì Pascià, comandante in capo della flotta ottomana](11%20-%20Al%C3%AC%20Pasci%C3%A0%2C%20comandante%20in%20capo%20della%20flotta%20ottomana.png)](11%20-%20Al%C3%AC%20Pasci%C3%A0%2C%20comandante%20in%20capo%20della%20flotta%20ottomana.png)
